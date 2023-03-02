@@ -1,6 +1,6 @@
 # Machine-Learning-Project
 ## Data Immersion Achievement 6 Project Brief: USA Airport Dataset Analysis
-###### )
+###### ![image] (https://www.arcgis.com/sharing/rest/content/items/5d93352406744d658d9c1f43f12b560c/info/thumbnail/thumbnail1563404185008.jpeg?w=800)
 ## Objective
 You’re an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
