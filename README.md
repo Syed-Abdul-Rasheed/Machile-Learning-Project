@@ -20,6 +20,5 @@ The code is available as jupyter notebooks, available under/ scripts/
 
 To launch the notebook, open the terminal and run the command
 ##### importing data : jupyter notebook importdata.ipynb
-##### generate corssTab : jupyter notebook createCrossTabs.ipynb
 
 ## Recources
